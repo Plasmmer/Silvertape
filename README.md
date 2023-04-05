@@ -10,3 +10,5 @@ A blockchain platform replacing:
 - hack rekt by hack recovery through instant hardforks
 
 To learn more, read the .txt files in this repository (there are also JPG drawings - that aren't NFTs, BTW)
+
+**Note**: Silvertape have no PoC yet, and will depend on [Sharedchain](https://github.com/Plasmmer/SharedChain) (which have a PoC)
