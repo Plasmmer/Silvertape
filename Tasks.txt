@@ -1,0 +1,18 @@
+ADDRESSES and HARD-FORKS:
+instead of using addresses, use usernames
+"void" user as "0x0...0"; Compuledger's developers can decide to hard fork to take something out the void; this is also the address that mint tokens/NFTs
+Hard forks will be more frequent, as hacks/thefts will be reverted by the DAO
+
+TOKEN, GAS and TXs:
+LED as network's token for gas
+use IPFS hash for txs
+
+TXs DEDUPLICATION and SHARDING:
+deduplicate data of a tx in the very tx
+weekly deduplication, which requires re-orging but secured by the main log. even the main log relies on deduplication of its own data
+Sharding: every region will have their own blockchain and validators
+support to commits, where a tx only adds a diffing to another tx (these should be taken in account with care, by the weekly deduplication)
+
+PROTECT other BLOCKCHAINS:
+secure eth proofs on bitcoin, and bitcoin proofs on eth (call these crossproofs as ViceVersa)
+dl bitcoin blockchain and others, but deduplicate while maintaining the merkletree's hashes; snapshot and offer gas refunds in GLUE's native tokens covering the costs of dupliced data!
