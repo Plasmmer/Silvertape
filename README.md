@@ -1,5 +1,7 @@
 <img src="logotype.svg">
 
+A blockchain platform with built-in UX & scalability.
+
 A blockchain platform replacing:
 
 - privatekeys cryptography by DIDs (Decentralized IDs - so you don't need to make law-infringing cryptography worrying theoretical existing quantum computers)
