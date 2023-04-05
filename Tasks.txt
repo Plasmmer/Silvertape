@@ -1,3 +1,5 @@
+Merge commits from SharedChain, all of the commits for the "Silvertape-Compuledger" folder
+
 ADDRESSES and HARD-FORKS:
 instead of using addresses, use usernames
 "void" user as "0x0...0"; Compuledger's developers can decide to hard fork to take something out the void; this is also the address that mint tokens/NFTs
